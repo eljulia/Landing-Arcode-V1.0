@@ -7,3 +7,5 @@ Estamos realizando System Desing Desde Claude Desing
 
 
 Colores del Sistema Azul-Negro-Blanco
+
+Cambios desde rama local Arcode para Devp01
